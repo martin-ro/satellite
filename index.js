@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const si = require('systeminformation');
-const axios = require('axios');
 const os = require('os');
 const fs = require('fs');
 const Path = require('path');
